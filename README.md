@@ -1,3 +1,3 @@
-# hello_world
+# hello
 
 This is my first file!
